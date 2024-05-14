@@ -1,9 +1,10 @@
 # moss_carbon_balance
-Code from my undergraduate senior thesis at Middlebury College. Completed as part of the Coe Lab and published May 19, 2020.
-
-I would like to thank Dr. Nico Gomez, Dr. David Allen (Middlebury College), and Niko Carvajal Janke for their contributions and assistance in writing these scripts. I would like to thank Dr. Kirsten Coe for her mentorship.
+Code from my undergraduate senior thesis in the Coe Lab at Middlebury College. 
 
 Thesis title: DESICCATION TOLERANCE OF SYNTRICHIA CANINERVIS ALONG A PRECIPITATION GRADIENT IN THE SHEEP CREEK MOUNTAINS, NEVADA
+Published May 19, 2020.
+
+I would like to thank Dr. Nico Gomez, Dr. David Allen (Middlebury College), and Niko Carvajal Janke for their contributions and assistance in writing these scripts. I would like to thank Dr. Kirsten Coe for her mentorship.
 
 Data generated using a modified LI-COR 6800 system and Moss + Soil and just Soil samples post hydration events.
 
